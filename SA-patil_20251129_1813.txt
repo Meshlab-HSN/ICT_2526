@@ -1,0 +1,2 @@
+This file was created by Sagar for the ICT_2526 Git assignment.
+It is used to practice branches, commits, pushing, and pull requests.
