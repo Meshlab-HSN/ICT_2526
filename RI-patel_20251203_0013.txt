@@ -1,0 +1,2 @@
+This file was created by Riddhi for the lecture 7 assignment ICT_2526.
+This is used to practice branches, commits, push and pull request.
