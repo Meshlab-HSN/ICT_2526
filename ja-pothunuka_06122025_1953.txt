@@ -1,1 +1,2 @@
 my task for Lect7.
+This is task 3 for lecture 7 which we need Create our copy of our repository by forking it.
