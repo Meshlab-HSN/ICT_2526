@@ -1,0 +1,6 @@
+Name: Krina Brahmhbhatt
+Date: December 2, 2025
+Assignment: ICT Lecture 7 Task 3
+
+This is my contribution file.
+I completed the Git assignment successfully.
