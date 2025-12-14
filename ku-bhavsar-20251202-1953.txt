@@ -1,0 +1,6 @@
+Name: Kush Bhavsar
+Date: December 2, 2025
+Assignment: ICT Practical 7 Task 3
+
+This is my contribution file.
+I completed the Git assignment successfully.
